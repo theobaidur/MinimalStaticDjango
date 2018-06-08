@@ -10,7 +10,7 @@ TEMPLATE_DEBUG = DEBUG
 
 ALLOWED_HOSTS = (
     'localhost',
-    'cfg-dmp.azurewebsites.net/'
+    'cfg-dmp.azurewebsites.net'
 )
 
 ADMINS = (
